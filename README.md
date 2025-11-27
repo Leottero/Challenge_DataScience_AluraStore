@@ -7,7 +7,7 @@ Este proyecto forma parte de un Reto del Proceso de Formación en Ciencia de Dat
 
 El análisis busca identificar la tienda menos eficiente basándose en métricas clave y, posteriormente, formular una recomendación final respaldada por los datos para optimizar su rendimiento.
 
-🚀 Objetivo del Proyecto
+Objetivo del Proyecto
 El objetivo principal es responder a la pregunta: ¿Cuál de las cuatro tiendas de Alura Store es la menos eficiente y qué acciones concretas se deben tomar para mejorar su situación?
 
 Para ello, se realizará:
@@ -39,7 +39,7 @@ matplotlib / seaborn: Para la visualización de datos y el EDA.
 
 Entorno de Desarrollo: Jupyter Notebooks / Google Colab
 
-📂 Estructura del Repositorio
+Estructura del Repositorio
 El repositorio está organizado de la siguiente manera:
 
 .
@@ -59,7 +59,7 @@ Métricas Clave: La baja eficiencia se atribuye principalmente a [Métrica 1] y 
 
 Recomendación Final: [Resumen de la estrategia recomendada (e.g., Inversión en capacitación de personal de ventas, revisión de inventario de productos de bajo rendimiento, etc.)].
 
-✍️ Autor
-[Tu Nombre o Alias]
+Autor
+Leonardo Fabio Quintero Muñoz
 
 [Tu Perfil de LinkedIn o Portafolio (Opcional)]
