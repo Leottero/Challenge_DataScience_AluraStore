@@ -62,4 +62,3 @@ Recomendación Final: [Resumen de la estrategia recomendada (e.g., Inversión en
 Autor
 Leonardo Fabio Quintero Muñoz
 
-[Tu Perfil de LinkedIn o Portafolio (Opcional)]
